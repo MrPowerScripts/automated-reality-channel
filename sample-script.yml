@@ -1,0 +1,16 @@
+summary: >
+  this is the first automated video attempt
+
+scenes:
+  - scene_start: 00:00:00:00
+    scene_end: 00:00:10:00
+    visual_media: https://images.pexels.com/photos/1389102/pexels-photo-1389102.jpeg?cs=srgb&dl=blur-curly-hair-facial-expression-1389102.jpg&fm=jpg
+    audio_media: tts
+    audio_start: 00:00:02:00
+    audio_script: |
+      This audio portion will be created with a text to speech library
+  # - scene_start: 00:00:11
+  #   scene_end: 00:00:20
+  #   visual_media: https://example.com/link-to-image.png
+  #   audio_media: https://example.com/link-to-audio.mp3
+
