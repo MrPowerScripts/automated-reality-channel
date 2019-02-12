@@ -4,7 +4,7 @@ summary: >
 scenes:
   - scene_start: 00:00:00:00
     scene_end: 00:00:10:00
-    visual_media: https://images.pexels.com/photos/1389102/pexels-photo-1389102.jpeg?cs=srgb&dl=blur-curly-hair-facial-expression-1389102.jpg&fm=jpg
+    visual_media: https://i.imgur.com/Y0YrV92.jpg
     visual_type: png
     audio_media: tts
     audio_start: 00:00:02:00
