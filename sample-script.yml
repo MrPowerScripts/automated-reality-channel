@@ -5,7 +5,7 @@ scenes:
   - scene_start: 00:00:00:00
     scene_end: 00:00:10:00
     visual_media: https://cdn.pixabay.com/photo/2012/11/28/09/32/nuclear-weapons-test-67557_640.jpg
-    visual_type: png
+    visual_type: jpg
     audio_media: tts
     audio_start: 00:00:02:00
     audio_script: |
