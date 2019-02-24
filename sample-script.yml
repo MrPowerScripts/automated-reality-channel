@@ -10,6 +10,15 @@ scenes:
     audio_start: 00:00:02:00
     audio_script: |
       This audio portion will be created with a text to speech library
+      
+  - scene_start: 00:00:00:00 #this doesn't work right now.
+    scene_end: 00:00:10:00 #this doesn't either
+    visual_media: https://dummyimage.com/16:9x1080.png
+    visual_type: png
+    audio_media: tts
+    audio_start: 00:00:02:00 # this also doesn't work
+    audio_script: |
+      This is more audio to test that video concatentation is working. I really hope this works yo
   # - scene_start: 00:00:11
   #   scene_end: 00:00:20
   #   visual_media: https://example.com/link-to-image.png
