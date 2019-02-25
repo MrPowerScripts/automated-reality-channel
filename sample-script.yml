@@ -13,7 +13,7 @@ scenes:
       
   - scene_start: 00:00:00:00 #this doesn't work right now.
     scene_end: 00:00:10:00 #this doesn't either
-    visual_media: https://dummyimage.com/16:9x1080.png
+    visual_media: https://i.imgur.com/4CeQguA.png
     visual_type: png
     audio_media: tts
     audio_start: 00:00:02:00 # this also doesn't work
