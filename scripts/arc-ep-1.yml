@@ -1,0 +1,16 @@
+summary: >
+  this is the first automated video attempt
+
+scenes:
+  - 
+    visual_media: https://cdn.pixabay.com/photo/2012/11/28/09/32/nuclear-weapons-test-67557_640.jpg
+    visual_type: jpg
+    audio_media: tts
+    audio_script: |
+      This audio portion will be created with a text to speech library
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      This is more audio to test that video concatentation is working. I really hope this works yo
