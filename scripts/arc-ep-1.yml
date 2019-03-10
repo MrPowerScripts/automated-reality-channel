@@ -188,7 +188,7 @@ scenes:
     audio_media: tts
     audio_script: |
       love Mary so?
-  - h
+  -
     visual_media: https://i.imgur.com/YiWmrDC.png
     visual_type: png
     audio_media: tts
