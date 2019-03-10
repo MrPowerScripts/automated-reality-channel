@@ -32,12 +32,11 @@ scenes:
     audio_media: tts
     audio_script: |
       Mary went
-  - visual_media: https://i.imgur.com/4jBC6zW.png
-    visual_type: png
+  - visual_type: png
     audio_media: tts
     audio_script: |
       Mary went
-  - visual_media: https://i.imgur.com/4kPkMgE.png
+  - visual_media: https://i.imgur.com/4jBC6zW.png
     visual_type: png
     audio_media: tts
     audio_script: |
@@ -92,7 +91,7 @@ scenes:
     audio_media: tts
     audio_script: |
       It made the children laugh and play
-  - visual_media: https://i.imgur.com/eQlpkVE.png
+  - visual_media: https://i.imgur.com/WUqJ4NA.png
     visual_type: png
     audio_media: tts
     audio_script: |
