@@ -3,14 +3,236 @@ summary: >
 
 scenes:
   - 
-    visual_media: https://cdn.pixabay.com/photo/2012/11/28/09/32/nuclear-weapons-test-67557_640.jpg
-    visual_type: jpg
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
     audio_media: tts
     audio_script: |
-      This audio portion will be created with a text to speech library
+      Mary had a little lamb
   - 
     visual_media: https://i.imgur.com/4CeQguA.png
     visual_type: png
     audio_media: tts
     audio_script: |
-      This is more audio to test that video concatentation is working. I really hope this works yo
+       little lamb
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+       little lamb
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+       Whose fleece was white as snow.
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+       And everywhere that Mary went
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Mary went
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Mary went
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Everywhere that Mary went
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      The lamb was sure to go.
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      He followed her to school one day
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      school one day
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      school one day
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      He followed her to school one day
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Which was against the rules.
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      It made the children laugh and play
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      laugh and play
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      laugh and play
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      It made the children laugh and play
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      To see a lamb at school
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      And so the teacher turned it out
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      turned it out
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      turned it out
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      And so the teacher turned it out
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      But still it lingered near
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      He waited patiently about
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      patiently about
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      patiently about
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      He waited patiently about
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Till Mary did appear.
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Why does the lamb love Mary so?
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      love Mary so?
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      love Mary so?
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Why does the lamb love Mary so?
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      The eager children cried
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Why, Mary loves the lamb, you know
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      lamb, you know
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      lamb, you know
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Why, Mary loves the lamb, you know
+  - 
+    visual_media: https://i.imgur.com/4CeQguA.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      The teacher did reply.
