@@ -32,7 +32,8 @@ scenes:
     audio_media: tts
     audio_script: |
       Mary went
-  - visual_type: png
+  - visual_media: https://i.imgur.com/Z6h5Q8P.png
+    visual_type: png
     audio_media: tts
     audio_script: |
       Mary went
