@@ -1,0 +1,19 @@
+summary: >
+  this is the second episode
+
+scenes:
+  - visual_media: https://i.imgur.com/S2iapXd.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      Mary had a little lamb
+  - visual_media: https://i.imgur.com/x7yhBEn.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      little lamb
+  - visual_media: https://i.imgur.com/YiWmrDC.png
+    visual_type: png
+    audio_media: tts
+    audio_script: |
+      little lamb
